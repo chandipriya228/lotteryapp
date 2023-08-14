@@ -1,4 +1,6 @@
 # lotteryappp
+![lotteryapp1](https://github.com/chandipriya228/lotteryapp/assets/142013495/8dbf57de-a057-49ac-9b73-6cc0a2c7dee3)
+![lotteryapp2](https://github.com/chandipriya228/lotteryapp/assets/142013495/86116704-4731-4f3a-ba39-d2c7dbddcc63)
 
 A new Flutter project.
 
